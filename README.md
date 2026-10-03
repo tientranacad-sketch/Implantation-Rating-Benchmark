@@ -60,4 +60,3 @@ Data set splitting/{Non-pregnant, Pregnant}/{Cross-validation, External-validati
 | LightGBM / XGBoost (Tabular) | 0,869 | 0,70–0,79 | 0,77–0,84 |
 | ResNet50 (Vision) | 0,601 | 0,41 | 0,71 |
 | Late Fusion | 0,524 | 0,15 | 0,85 |
-"# Implantation-Rating-Benchmark" 
